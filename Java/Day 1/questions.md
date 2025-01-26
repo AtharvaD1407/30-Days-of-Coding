@@ -23,6 +23,7 @@
   3
   4
   5
+(Each number on different line.)
 
 ## Question for you
 
