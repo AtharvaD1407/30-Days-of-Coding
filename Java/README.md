@@ -7,29 +7,25 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 
 ## 📌 **What You'll Learn?**
 
-📝 **Mark the checkboxes `[x]` when you complete a topic!**
-
-- [ ] Day 1 - Introduction & Setup
-- [ ] Day 2 - Variables & Data Types
-- [ ] Day 3 - Conditional Statements
-
-📌 **Progress: `0%` Completed! 🎯**
+- ✅ Day 1 - Introduction & Setup
+- ✅ Day 2 - Variables & Data Types
+- ✅ Day 3 - Conditional Statements
 
 ---
 
 ## 📂 **Folder Structure**
 
-📦 java
-┣ 📂 Day 1 - Introduction
-┃ ┣ 📜 basicSyntax.java
-┃ ┣ 📜 readme.md
-┃ ┣ 📜 questions.md
-┣ 📂 Day 2 - Variables & Data Types
-┃ ┣ 📜 variablesDataTypes.java
-┃ ┣ 📜 readme.md
-┃ ┣ 📜 questions.md
-┣ 📂 ... (More Days Coming)
-┗ 📜 README.md
+📦 java <br>
+┣ 📂 Day 1 - Introduction <br>
+┃ ┣ 📜 basicSyntax.java <br>
+┃ ┣ 📜 readme.md <br>
+┃ ┣ 📜 questions.md <br>
+┣ 📂 Day 2 - Variables & Data Types <br>
+┃ ┣ 📜 variablesDataTypes.java <br>
+┃ ┣ 📜 readme.md <br>
+┃ ┣ 📜 questions.md <br>
+┣ 📂 ... (More Days Coming) <br>
+┗ 📜 README.md <br>
 
 📌 **Each Day Contains:**
 
