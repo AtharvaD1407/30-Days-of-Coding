@@ -59,9 +59,7 @@ javac filename.java
 java filename
 ```
 
-📌 **Step 5:** Mark the Progress Tracker ✅ once you complete a topic.
-
-📌 **Step 6:** Try the practice problems and experiment with the code.
+📌 **Step 5:** Try the practice problems and experiment with the code.
 
 ---
 
