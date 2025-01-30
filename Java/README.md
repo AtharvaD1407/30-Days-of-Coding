@@ -5,13 +5,15 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 
 ---
 
-## 📌 **What You'll Learn?**
+## 📌 What You'll Learn
 
-- ✅ Day 1 - Introduction & Setup
-- ✅ Day 2 - Variables & Data Types
-- ✅ Day 3 - Conditional Statements
-- ✅ Day 4 - Loops
-- ✅ Day 5 - Methods
+|  **Day**  | **Topic**              | **What You’ll Learn**                                                                          |
+| :-------: | :--------------------- | :--------------------------------------------------------------------------------------------- |
+| **Day 1** | Introduction & Setup   | Introduction to Java, environment setup, and running your first program.                       |
+| **Day 2** | Variables & Data Types | Learn about variables, data types, and how to use them in Java.                                |
+| **Day 3** | Conditional Statements | Understanding `if`, `else`, and `switch` statements to control program flow.                   |
+| **Day 4** | Loops                  | Explore `for`, `while`, and `do-while` loops for repetitive tasks.                             |
+| **Day 5** | Methods                | Learn how to define and call methods, including passing parameters and handling return values. |
 
 ---
 
