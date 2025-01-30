@@ -11,6 +11,7 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 - ✅ Day 2 - Variables & Data Types
 - ✅ Day 3 - Conditional Statements
 - ✅ Day 4 - Loops
+- ✅ Day 5 - Methods
 
 ---
 
