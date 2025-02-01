@@ -53,10 +53,10 @@ returnType methodName(parameters) {
 
 ## 🔹 Summary
 
-✔ Methods help organize and reuse code efficiently.
-✔ Methods can have parameters and return values.
-✔ Method Overloading allows the same method name with different parameters.
-✔ Varargs (...) allows methods to accept multiple arguments dynamically.
+✔ Methods help organize and reuse code efficiently. <br>
+✔ Methods can have parameters and return values. <br>
+✔ Method Overloading allows the same method name with different parameters. <br>
+✔ Varargs (...) allows methods to accept multiple arguments dynamically. <br>
 
 ---
 
