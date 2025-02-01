@@ -14,6 +14,7 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 | **Day 3** | Conditional Statements | Understanding `if`, `else`, and `switch` statements to control program flow.                   |
 | **Day 4** | Loops                  | Explore `for`, `while`, and `do-while` loops for repetitive tasks.                             |
 | **Day 5** | Methods                | Learn how to define and call methods, including passing parameters and handling return values. |
+| **Day 6** | Array and String       | Learn about 1D and 2D arrays, how to manipulate them, and basic string operations in Java.     |
 
 ---
 
