@@ -181,11 +181,11 @@ To execute the **OOPBasics.java** file, follow these steps:
 
 ## ✅ **Why This README is Useful?**
 
-✔ Clear and beginner-friendly explanations
-✔ No complex jargon – Perfect for a first-time learner
-✔ Covers all necessary topics in OOP basics
-✔ Includes real-world benefits and practical applications
-✔ Provides practice exercises to reinforce learning
+✔ Clear and beginner-friendly explanations <br>
+✔ No complex jargon – Perfect for a first-time learner <br>
+✔ Covers all necessary topics in OOP basics <br>
+✔ Includes real-world benefits and practical applications <br>
+✔ Provides practice exercises to reinforce learning <br>
 
 ---
 
