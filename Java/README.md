@@ -16,6 +16,7 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 | **Day 5** | Methods                | Learn how to define and call methods, including passing parameters and handling return values. |
 | **Day 6** | Array and String       | Learn about 1D and 2D arrays, how to manipulate them, and basic string operations in Java.     |
 | **Day 7** | OOP Basics             | Introduction to Object-Oriented Programming, classes & objects, constructors, and methods.     |
+| **Day 8** | Inheritance            | Understand inheritance in Java, how to extend classes, and method overriding.                  |
 
 ---
 
