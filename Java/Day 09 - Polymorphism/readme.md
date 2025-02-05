@@ -8,8 +8,8 @@ Dynamic Method Dispatch (also known as runtime polymorphism) is an advanced conc
 
 Before diving deep into Dynamic Method Dispatch, we have already covered:
 
-- ✅ Method Overloading (Compile-time polymorphism) – Covered in [Day 7 - OOPs](../Day%207%20-%20OOPs/OOP_Basics.java)
-- ✅ Method Overriding (Runtime polymorphism) – Covered in [Day 8 - Inheritance](../Day%208%20-%20Inheritance/Inheritance.java)
+- ✅ Method Overloading (Compile-time polymorphism) – Covered in [Day 07 - OOPs](../Day%2007%20-%20OOPs/OOP_Basics.java)
+- ✅ Method Overriding (Runtime polymorphism) – Covered in [Day 08 - Inheritance](../Day%2008%20-%20Inheritance/Inheritance.java)
 
 Now, we will extend our understanding by exploring how Java resolves method calls dynamically at runtime! 🔥
 
