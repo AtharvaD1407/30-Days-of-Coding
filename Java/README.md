@@ -7,17 +7,18 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 
 ## 📌 What You'll Learn
 
-|  **Day**  | **Topic**              | **What You’ll Learn**                                                                                    |
-| :-------: | :--------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Day 1** | Introduction & Setup   | Introduction to Java, environment setup, and running your first program.                                 |
-| **Day 2** | Variables & Data Types | Learn about variables, data types, and how to use them in Java.                                          |
-| **Day 3** | Conditional Statements | Understanding `if`, `else`, and `switch` statements to control program flow.                             |
-| **Day 4** | Loops                  | Explore `for`, `while`, and `do-while` loops for repetitive tasks.                                       |
-| **Day 5** | Methods                | Learn how to define and call methods, including passing parameters and handling return values.           |
-| **Day 6** | Arrays and Strings     | Learn about 1D and 2D arrays, how to manipulate them, and basic string operations in Java.               |
-| **Day 7** | OOP Basics             | Introduction to Object-Oriented Programming, classes & objects, constructors, and methods.               |
-| **Day 8** | Inheritance            | Understand inheritance in Java, how to extend classes, and method overriding.                            |
-| **Day 9** | Polymorphism           | Learn about polymorphism with a focus on dynamic dispatch and how it enables flexible and reusable code. |
+|  **Day**   | **Topic**              | **What You’ll Learn**                                                                                      |
+| :--------: | :--------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Day 1**  | Introduction & Setup   | Introduction to Java, environment setup, and running your first program.                                   |
+| **Day 2**  | Variables & Data Types | Learn about `variables`, `data types`, and how to use them in Java.                                        |
+| **Day 3**  | Conditional Statements | Understanding `if`, `else`, and `switch` statements to control program flow.                               |
+| **Day 4**  | Loops                  | Explore `for`, `while`, and `do-while` loops for repetitive tasks.                                         |
+| **Day 5**  | Methods                | Learn how to define and call `methods`, including passing parameters and handling return values.           |
+| **Day 6**  | Arrays and Strings     | Learn about `1D` and `2D` arrays, how to manipulate them, and basic `string` operations in Java.           |
+| **Day 7**  | OOP Basics             | Introduction to `Object-Oriented Programming`, classes & objects, constructors, and methods.               |
+| **Day 8**  | Inheritance            | Understand `inheritance` in Java, how to extend classes, and method overriding.                            |
+| **Day 9**  | Polymorphism           | Learn about `polymorphism` with a focus on dynamic dispatch and how it enables flexible and reusable code. |
+| **Day 10** | Abstraction            | Understand `abstract` classes, methods, and interfaces with real-world examples.                           |
 
 ---
 
