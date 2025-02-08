@@ -103,3 +103,9 @@ Stay tuned for updates and feel free to suggest additional features or improveme
 
 - Ensure all code is well-documented and beginner-friendly.
 - Follow the folder structure and naming conventions.
+
+---
+
+## 💬 Join the Discussion!
+
+Have questions or feedback? Let's chat in our [GitHub Discussions](https://github.com/your-repo/discussions).
