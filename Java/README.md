@@ -7,7 +7,7 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 
 ## 📌 What You'll Learn
 
-|  **Day**   | **Topic**              | **What You’ll Learn**                                                                                      |
+| **Day**   | **Topic**              | **What You’ll Learn**                                                                                      |
 | :--------: | :--------------------- | :--------------------------------------------------------------------------------------------------------- |
 | **Day 1**  | Introduction & Setup   | Introduction to Java, environment setup, and running your first program.                                   |
 | **Day 2**  | Variables & Data Types | Learn about `variables`, `data types`, and how to use them in Java.                                        |
@@ -19,6 +19,7 @@ This journey will take you from **Java Basics to Advanced** in just **30 days**.
 | **Day 8**  | Inheritance            | Understand `inheritance` in Java, how to extend classes, and method overriding.                            |
 | **Day 9**  | Polymorphism           | Learn about `polymorphism` with a focus on dynamic dispatch and how it enables flexible and reusable code. |
 | **Day 10** | Abstraction            | Understand `abstract` classes, methods, and interfaces with real-world examples.                           |
+| **Day 11** | Exception Handling     | Learn how to handle errors in Java using `try-catch-finally`, create custom exceptions, and handle multiple exceptions. |
 
 ---
 
